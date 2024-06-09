@@ -1,0 +1,306 @@
+/*.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); } */
+body{
+    background-color:#f4978e;
+}
+.main{
+    display: flex;
+    width: 700px;
+    height: 1700px;
+    position: relative;
+    left: 290px;
+    top: 80px;
+    background-color: white;
+    border-radius: 20px;
+}
+.khachapuri{
+    display: flex;
+    height: 250px;
+    width: 400px;
+    position: relative;
+    left: 180px;
+    top: 40px;
+    border-radius: 20px;
+}
+
+.header{
+    position: relative;
+    top: 280px;
+    right:140px;
+}
+.text{
+    display: flex;
+    position: absolute;
+    height: 180px;
+    width: 650px;
+    top: 500px;
+    left: 325px;
+    background-color: #fdfcdc;
+    border-radius: 10px;
+    
+}
+.text:hover{
+    transform:scale(1.5);
+    transition: 0.5s;
+    
+}
+.ingredients{
+    display: flex;
+    position: absolute;
+    top: 700px;
+    left: 325px;
+    width: 650px;
+    height: 200px;
+    background-color: rgb(251, 253, 253);
+    border-radius: 20px;
+.h3{
+    position: absolute;
+    display: flex;
+    right: 300px;
+}
+.p11{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 8px;
+}
+}
+.p1{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    
+   
+    
+}
+.p1:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p22{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 90px;
+}
+
+.p2{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+   
+    
+}
+.p2:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p33{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 170px;
+}
+
+.p3{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+   
+    
+}
+.p3:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p44{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 250px;
+}
+
+.p4{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+   
+    
+}
+.p4:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p55{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 330px;
+}
+
+.p5{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+   
+    
+}
+.p5:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p66{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 400px;
+}
+
+.p6{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+    
+}
+.p6:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p77{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 480px;
+}
+
+.p7{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+   
+    
+}
+.p7:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.p88{
+    display: flex;
+    position: absolute;
+    top:100px;
+    left: 560px;
+}
+
+.p8{
+    display: flex;
+    width:50px;
+    height:50px;
+    margin-top: 70px;
+    margin-left: 30px;
+   
+    
+}
+.p8:hover{
+    transform:scale(1.3);
+    transition: 0.5s;
+}
+.wine1{
+    display: flex;
+    position: absolute;
+    height: 300px;
+    width:650px;
+    background-color: rgb(196, 230, 227);
+    top:925px;
+    left:325px;
+    border-radius: 20px;
+    
+}
+.winepic{
+    display: flex;
+    margin-left: 60px;
+    border-radius: 20px;
+}
+.h2{
+    position: absolute;
+    display: flex;
+    left: 560px;
+    top: 1250px;
+}
+.method{
+    position: absolute;
+    display: flex;
+    left: 325px;
+    top:1300px;
+}
+.recipe{
+    position: absolute;
+    display: flex;
+    height: 150px;
+    width: 580px;
+    top:1308px;
+    left:400px;
+    background-color:#fdfcdc;
+    border-radius: 20px;
+}
+.recipe:hover{
+    transform:scale(1.5);
+    transition: 0.5s;
+    
+}
+.Cheese{
+    position: absolute;
+    display: flex;
+    left: 325px;
+    top:1480px;
+}
+.Cheese1{
+    position: absolute;
+    display: flex;
+    height: 100px;
+    width: 585px;
+    background-color:#fdfcdc;
+    border-radius: 20px;
+    top:10px;
+    left:70px;
+}
+.Cheese1:hover{
+    transform:scale(1.5);
+    transition: 0.5s;
+    
+}
+.Eating{
+    position: absolute;
+    display: flex;
+    height: 50px;
+    width: 80px;
+    left: 1px;
+    top:110px;
+}
+.Eating1{
+    position: absolute;
+    display: flex;
+    height: 100px;
+    width: 585px;
+    background-color:#fdfcdc;
+    border-radius: 20px;
+    top:125px;
+    left:70px;
+}
+.Eating1:hover{
+    transform:scale(1.5);
+    transition: 0.5s;
+    
+}
